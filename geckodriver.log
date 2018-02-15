@@ -1,0 +1,68 @@
+1518684830483	geckodriver	INFO	geckodriver 0.19.0
+1518684830517	geckodriver	INFO	Listening on 127.0.0.1:34579
+1518684831646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.b8Bb3S9u8GSC"
+1518684832935	Marionette	INFO	Enabled via --marionette
+1518684836112	Marionette	INFO	Listening on port 45029
+1518684836198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.staticmb.com/scripts/mainTempOnlyGroup.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn-jp.gsecondscreen.com/static/tac.min.js, line 3: unreachable code after return statement
+[Child 2304, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2304, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518684846291	geckodriver	INFO	geckodriver 0.19.0
+1518684846299	geckodriver	INFO	Listening on 127.0.0.1:43099
+1518684847575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qMmXu3kCFnth"
+1518684849750	Marionette	INFO	Enabled via --marionette
+1518684852475	Marionette	INFO	Listening on port 42337
+1518684852569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.staticmb.com/scripts/mainTempOnlyGroup.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn-jp.gsecondscreen.com/static/tac.min.js, line 3: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2544, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2478, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2478, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518684929439	geckodriver	INFO	geckodriver 0.19.0
+1518684929446	geckodriver	INFO	Listening on 127.0.0.1:47327
+1518684930535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1MlZUbSNfypO"
+1518684931445	Marionette	INFO	Enabled via --marionette
+1518684933830	Marionette	INFO	Listening on port 37997
+1518684933898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.staticmb.com/scripts/mainTempOnlyGroup.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn-jp.gsecondscreen.com/static/tac.min.js, line 3: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2739, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2687, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2687, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2687, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518684940418	geckodriver	INFO	geckodriver 0.19.0
+1518684940430	geckodriver	INFO	Listening on 127.0.0.1:54883
+1518684941622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y9OrfAya6KFe"
+1518684943680	Marionette	INFO	Enabled via --marionette
+1518684946239	Marionette	INFO	Listening on port 46069
+1518684946286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.staticmb.com/scripts/mainTempOnlyGroup.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn-jp.gsecondscreen.com/static/tac.min.js, line 3: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2892, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2855, Chrome_ChildThread] WARNING: pipe error (17): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 2855, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518685017546	geckodriver	INFO	geckodriver 0.19.0
+1518685017553	geckodriver	INFO	Listening on 127.0.0.1:42121
+1518685018641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d9nTo84TWEni"
+1518685019619	Marionette	INFO	Enabled via --marionette
+1518685022349	Marionette	INFO	Listening on port 44491
+1518685022391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.staticmb.com/scripts/mainTempOnlyGroup.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn-jp.gsecondscreen.com/static/tac.min.js, line 3: unreachable code after return statement
+[Child 3063, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3063, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3063, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1518685033246	geckodriver	INFO	geckodriver 0.19.0
+1518685033276	geckodriver	INFO	Listening on 127.0.0.1:48519
+1518685034387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dLsoetAYpzjO"
+1518685036280	Marionette	INFO	Enabled via --marionette
+1518685039166	Marionette	INFO	Listening on port 35279
+1518685039259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdn.staticmb.com/scripts/mainTempOnlyGroup.js, line 1: unreachable code after return statement
+JavaScript warning: https://cdn-jp.gsecondscreen.com/static/tac.min.js, line 3: unreachable code after return statement
+[Child 3226, Chrome_ChildThread] WARNING: pipe error (15): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 3226, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
